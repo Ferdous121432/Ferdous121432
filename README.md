@@ -50,6 +50,6 @@ I'm a Full‑stack Web Developer passionate about building performant, full‑fe
 
 ### 📫 How to Reach Me
 
-- Portfolio: http://www.firdous.pro](https://profile.firdous.pro/
+- Portfolio: https://profile.firdous.pro
 - LinkedIn: https://linkedin.com/in/firdous-azam
 - Email: firdousazam@iut-dhaka.edu
